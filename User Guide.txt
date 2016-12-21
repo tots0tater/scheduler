@@ -1,0 +1,17 @@
+Steps to scheduling an event:
+1. Launch the program
+2. Login to your google account and give permissions
+
+Mandatory steps (2-6):
+3. Enter an event name
+4. Toggle available days
+5. Select a start time from the calendar on the right
+6. Select an end date from the calendar on the right
+7. Enter hours needed
+
+Optional steps (7-8):
+8. Enter a location
+9. Enter a description for the event
+
+10. Click on the "Create Event" button
+11. Navigate to your Google Calendar and see scheduled event!

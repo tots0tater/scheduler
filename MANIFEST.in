@@ -1,0 +1,3 @@
+include README.rst
+include authentication_info
+include client_secret.json

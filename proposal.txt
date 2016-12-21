@@ -1,0 +1,88 @@
+          student: Ben Windishar-Tatham
+   degree program: BSCS
+     program year: senior
+     project name: Scheduler
+        submitted: 11/4/2016 9:28:22
+brief description:
+    Using the Google Calendar API, Scheduler will populate your calendar
+    with times allocated to complete tasks.
+
+Is your project research-related? If so, describe the research area
+and provide your advisor's name?:
+    No.
+
+Give a script (a sequence of actions, not Python code) of a session a
+user might have with your project.:
+    >Launch GUI for program
+    >Log in with user credentials to Google Calendar
+    >Input task name, amount of time expected to complete the task
+    >Click on schedule button
+
+How will your project use a database?:
+    not applicable (no database required)
+
+Is your project joint with another class? If so, say which class and
+who the instructor is.:
+    No.
+
+Other than those selected above, if any, what other modules will your
+project use?:
+    (no response)
+
+How will your project use networking?:
+    Requires Internet access for Google API
+
+How will your project use multimedia (esp. sound)?:
+    not applicable (no multimedia required)
+
+Describe your project in greater detail. What would you say to someone
+to get them to use (or buy) your project?:
+    Have a task due in two weeks and have trouble scheduling when to do the
+    task? With Scheduler, you will be able to input the due date and the
+    expected amount of time to complete the task, and Scheduler will fill
+    in your calendar with time slots of when to work on the task. This
+    process will automatically resolve conflicts and take into
+    consideration sleeping hours.
+
+If your project provides an API, give some typical functions and/or
+classes (and their methods) that users would import.:
+    (no response)
+
+Will your application make use of any non-trivial algorithms? If so,
+describe them.:
+    (no response)
+
+How will your project use 3D graphics?:
+    not applicable (no 3D graphice required)
+
+Is your project a game or aid to gaming? If so, say what kind (arcade,
+strategy, role-playing, etc.).:
+    No.
+
+Is your project work-related? If so, describe the work and the problem
+it will solve.:
+    No.
+
+Does your collect data from external sensors? If so, describe the data
+(volume, sampling rate, format, etc.) and its interface.:
+    Yes. It gathers data through the Google Calendar API.
+
+What platform(s) will your project run on?:
+    Windows
+
+Is your project educational? If so, describe the grade level (or say
+"university") and the skills it helps develop.:
+    No.
+
+Is your project a simulation? If so, what does it simulate?:
+    No.
+
+What will you use to build your command line interface (CLI)?:
+    not applicable (no CLI provided)
+
+If your project is interactive, give some typical user commands.:
+    (no response)
+
+What will you use to build your graphical user interface (GUI)?:
+    Tkinter
+
